@@ -4,7 +4,7 @@ This is **le** homepage bro.
 
 # About me
 
-!https://static.wikia.nocookie.net/thebackyardigansencyclopedia/images/1/18/The_Backyardigans_Pablo_Nickelodeon_Nick_Jr._Character_Image.png/revision/latest?cb=20241221030949
+!(https://static.wikia.nocookie.net/thebackyardigansencyclopedia/images/1/18/The_Backyardigans_Pablo_Nickelodeon_Nick_Jr._Character_Image.png/revision/latest?cb=20241221030949)
 
 Name: Hulio Hernandez
 
@@ -58,4 +58,7 @@ Participated in [competitions/shows/events]
 Teamwork • Flexibility • Stage Performance • Choreography • Discipline
 
 References
+
+Link here
+
 Available upon request.
