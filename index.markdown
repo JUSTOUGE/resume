@@ -25,7 +25,7 @@ Hip-Hop
 
 Ballet
 
-Jazz
+JazzZZZ
 
 Freestyle
 
