@@ -4,7 +4,7 @@ This is **le** homepage broSKIIIII.
 
 # About me
 
-!<img width="461" height="664" alt="image" src="https://github.com/user-attachments/assets/9fdcdf1c-48d1-435c-9d94-b872ab9e6802" />
+<img width="461" height="664" alt="image" src="https://github.com/user-attachments/assets/9fdcdf1c-48d1-435c-9d94-b872ab9e6802" />
 
 
 Name: Hulio Hernandez
