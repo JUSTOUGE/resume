@@ -11,7 +11,7 @@ Dancer | Performer
 
 📍 [Etobicoke, Canada] | 📞 [892 (273) 9335] | ✉️ [hulio.dagreat@gmail.com]
 
-# # Profile
+# Profile
 
 Passionate and dedicated dancer with experience in performing and training in various dance styles. Creative, disciplined, and confident on stage, with a strong ability to learn choreography and work as part of a team.
 
@@ -28,7 +28,7 @@ Freestyle
 
 Choreography
 
-## Experience
+# Experience
 
 Dancer / Performer — [Dance Group or Studio]
 [Year–Year]
@@ -39,7 +39,7 @@ Learned and performed group and solo choreography.
 
 Participated in rehearsals and dance workshops.
 
-##Training
+# Training
 
 [Dance School/Studio Name] — [City]
 [Year–Year]
@@ -51,7 +51,7 @@ Participated in [competitions/shows/events]
 
 [Certification, if any]
 
-## Additional Skills
+# Additional Skills
 
 Teamwork • Flexibility • Stage Performance • Choreography • Discipline
 
