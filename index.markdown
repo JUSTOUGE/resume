@@ -4,7 +4,7 @@ This is **le** homepage broSKIIIII.
 
 # About me
 
-!(https://static.wikia.nocookie.net/thebackyardigansencyclopedia/images/1/18/The_Backyardigans_Pablo_Nickelodeon_Nick_Jr._Character_Image.png/revision/latest?cb=20241221030949)
+
 
 Name: Hulio Hernandez
 
@@ -59,6 +59,6 @@ Teamwork • Flexibility • Stage Performance • Choreography • Discipline
 
 References
 
-Link here
+<a href="https://www.google.com/search?sca_esv=5283d7f5c3d541e9&rlz=1C5OZZY_enCA1184CA1184&sxsrf=APpeQntdN2zutpyKkpq0OtGGjGFflhUBxQ:1789742406067&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VstEKsVDqPorK0Gahnm2nq-aQnTz_mBV-EZYISbLc-StUIq_PhL7hb0Qt0YiIGOHkJjnTZ-cOFt4MBdBh9xxUSLmQqYmceNOVPnJ828B2jVF7369v0TJ7PslRO7NeHq_gersSL0dF9_aQb9YBem2DXpczx9t0eeLk_LAjFQmfrB7VpT0w&q=Pablo&sa=X&ved=2ahUKEwiqj-mCrviWAxVdBoYAHb1_G8oQtKgLegQIIhAB&biw=1463&bih=778&dpr=2#sv=CAMSURoyKhBlLXNMYzFFZnhZWGVzbEZNMg5zTGMxRWZ4WVhlc2xGTToOUjAtZnF6ZUFNSF9lR00gBCoXCgFzEhBlLXNMYzFFZnhZWGVzbEZNGAEwARgHIO-QqxtKCBABGAEgASgB">Bro</a>
 
 Available upon request.
